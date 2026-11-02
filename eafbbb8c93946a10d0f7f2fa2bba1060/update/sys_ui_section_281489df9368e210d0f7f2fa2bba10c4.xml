@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="281489df9368e210d0f7f2fa2bba10c4" sys_domain="global" table="x_snc_testapp_wb_0_t_wbuck_test" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>new_field_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-02 00:40:18</sys_created_on>
+            <sys_id>c3544ddf9368e210d0f7f2fa2bba10e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapp_wb_0_t_wbuck_test" sys_domain="global" view="Default view">281489df9368e210d0f7f2fa2bba10c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-02 00:40:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>m_l</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-02 00:42:18</sys_created_on>
+            <sys_id>1cd4c51393a8e210d0f7f2fa2bba1050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapp_wb_0_t_wbuck_test" sys_domain="global" view="Default view">281489df9368e210d0f7f2fa2bba10c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-02 00:42:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>m_0</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-02 00:44:09</sys_created_on>
+            <sys_id>1b35891393a8e210d0f7f2fa2bba1020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapp_wb_0_t_wbuck_test" sys_domain="global" view="Default view">281489df9368e210d0f7f2fa2bba10c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-02 00:44:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_testapp_wb_0_t_wbuck_test</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-02 00:39:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>281489df9368e210d0f7f2fa2bba10c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_testapp_wb_0_t_wbuck_test</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="testapp_wbuck" source="x_snc_testapp_wb_0">eafbbb8c93946a10d0f7f2fa2bba1060</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testapp_wbuck">eafbbb8c93946a10d0f7f2fa2bba1060</sys_scope>
+            <sys_update_name>sys_ui_section_281489df9368e210d0f7f2fa2bba10c4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-02 00:39:02</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

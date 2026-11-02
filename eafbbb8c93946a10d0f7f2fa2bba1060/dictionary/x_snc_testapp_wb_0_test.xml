@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e1e888c1eb746a10a9c7f734bad0cd48" label="test" max_length="40" name="x_snc_testapp_wb_0_test" type="collection">
+        <element label="システム名" max_length="40" name="m_r" type="string"/>
+        <element label="システムの基本情報：運用状態" max_length="40" name="m_ab" type="string"/>
+        <element label="組織別コード" max_length="40" name="m_o" type="string"/>
+        <element label="部門名" max_length="40" name="m_q" type="string"/>
+        <element label="会社" max_length="40" name="m_t" type="string"/>
+        <element label="項番" max_length="40" name="m_n" type="string"/>
+        <element label="システムの基本情報：接続NW2" max_length="40" name="m_ah" type="string"/>
+        <element label="支店・部" max_length="40" name="m_u" type="string"/>
+        <element label="電話番号" max_length="40" name="m_y" type="string"/>
+        <element label="システムの基本情報：インターネット又は加入者網アクセス可能か" max_length="40" name="m_af" type="string"/>
+        <element label="担当" max_length="40" name="m_w" type="string"/>
+        <element label="会社名" max_length="40" name="m_p" type="string"/>
+        <element label="システムの基本情報：公開システムの管理対象" max_length="40" name="m_ac" type="string"/>
+        <element label="システムの基本情報：接続NW1" max_length="40" name="m_ag" type="string"/>
+        <element label="システムの基本情報：接続NW3" max_length="40" name="m_ai" type="string"/>
+        <element label="回答者" max_length="40" name="m_l" type="string"/>
+        <element label="報告者氏名" max_length="40" name="m_x" type="string"/>
+        <element label="システムの基本情報：接続NW3" max_length="40" name="m_al" type="string"/>
+        <element label="略称" max_length="40" name="m_s" type="string"/>
+        <element label="システムの基本情報：接続NW2" max_length="40" name="m_ak" type="string"/>
+        <element label="システムの基本情報：会社" max_length="40" name="m_am" type="string"/>
+        <element label="システムの基本情報：部署名" max_length="40" name="m_an" type="string"/>
+        <element label="部門" max_length="40" name="m_v" type="string"/>
+        <element label="回答日" max_length="40" name="m_m" type="string"/>
+        <element label="システムの基本情報：システムの目的・主な提供機能" max_length="40" name="m_ae" type="string"/>
+        <element label="システムの基本情報：公開システムのCSOC-ID" max_length="40" name="m_ad" type="string"/>
+        <element label="E-Mail" max_length="40" name="m_z" type="string"/>
+    </element>
+</database>

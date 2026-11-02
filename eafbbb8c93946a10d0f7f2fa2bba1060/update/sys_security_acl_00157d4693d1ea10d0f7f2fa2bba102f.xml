@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_snc_testapp_wb_0_xyz</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>abhishekkumar.maurya@snc</sys_created_by>
+        <sys_created_on>2025-05-05 13:47:47</sys_created_on>
+        <sys_id>00157d4693d1ea10d0f7f2fa2bba102f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_testapp_wb_0_xyz</sys_name>
+        <sys_package display_value="testapp_wbuck" source="x_snc_testapp_wb_0">eafbbb8c93946a10d0f7f2fa2bba1060</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp_wbuck">eafbbb8c93946a10d0f7f2fa2bba1060</sys_scope>
+        <sys_update_name>sys_security_acl_00157d4693d1ea10d0f7f2fa2bba102f</sys_update_name>
+        <sys_updated_by>abhishekkumar.maurya@snc</sys_updated_by>
+        <sys_updated_on>2025-05-05 13:47:47</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_auth_policy_condition">
+    <sys_auth_policy_condition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>a2f911b673021010fdbd04fbc4f6a77e</answer>
+        <condition table="var__m_sys_decision_input_484ee042330fea50300985bb9d5c7b5f">sys_idSTARTSWITHaaa^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="aaa"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="test2">484ee042330fea50300985bb9d5c7b5f</decision_table>
+        <default_answer>false</default_answer>
+        <description/>
+        <input_table>var__m_sys_decision_input_484ee042330fea50300985bb9d5c7b5f</input_table>
+        <label>a1</label>
+        <marked_for_deletion>false</marked_for_deletion>
+        <order>0</order>
+        <sys_class_name>sys_auth_policy_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-31 08:28:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c64e2442330fea50300985bb9d5c7bba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testapp_wbuck" source="x_snc_testapp_wb_0">eafbbb8c93946a10d0f7f2fa2bba1060</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp_wbuck">eafbbb8c93946a10d0f7f2fa2bba1060</sys_scope>
+        <sys_update_name>sys_auth_policy_condition_c64e2442330fea50300985bb9d5c7bba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-31 08:28:44</sys_updated_on>
+    </sys_auth_policy_condition>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_authentication_policy">
+    <sys_authentication_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <decision_table display_value="test_custom">068cf8d633036e50300985bb9d5c7b78</decision_table>
+        <description/>
+        <internal_name>x_snc_testapp_wb_0.test_custom</internal_name>
+        <name>test_custom</name>
+        <sys_class_name>sys_authentication_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-01 04:09:08</sys_created_on>
+        <sys_id>2f7cb8d633036e50300985bb9d5c7bfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_custom</sys_name>
+        <sys_package display_value="testapp_wbuck" source="x_snc_testapp_wb_0">eafbbb8c93946a10d0f7f2fa2bba1060</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp_wbuck">eafbbb8c93946a10d0f7f2fa2bba1060</sys_scope>
+        <sys_update_name>sys_authentication_policy_2f7cb8d633036e50300985bb9d5c7bfc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-01 04:09:08</sys_updated_on>
+        <type>any</type>
+    </sys_authentication_policy>
+    <sys_translated_text action="delete_multiple" query="documentkey=2f7cb8d633036e50300985bb9d5c7bfc"/>
+</record_update>

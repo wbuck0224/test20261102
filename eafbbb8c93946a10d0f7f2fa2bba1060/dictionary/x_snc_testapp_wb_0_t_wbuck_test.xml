@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="881489df9368e210d0f7f2fa2bba10f4" label="t_wbuck_test" max_length="40" name="x_snc_testapp_wb_0_t_wbuck_test" type="collection">
+        <element label="New Field 1" max_length="40" name="new_field_1" type="string"/>
+        <element label="m_l" max_length="40" name="m_l" type="string"/>
+        <element label="回答者" max_length="40" name="m_0" type="string"/>
+    </element>
+</database>

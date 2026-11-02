@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="u_cs8266600_test">
+    <u_cs8266600_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <business_calendar/>
+        <can_iterate>false</can_iterate>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_run_end/>
+        <entered_run_start/>
+        <entered_time>1970-01-01 00:00:00</entered_time>
+        <max_drift/>
+        <name>test</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <repeat_every/>
+        <run_as display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_daysofweek/>
+        <run_end/>
+        <run_month/>
+        <run_period/>
+        <run_start>2025-05-13 08:25:15</run_start>
+        <run_time>1969-12-31 15:00:00</run_time>
+        <run_type>daily</run_type>
+        <run_weekinmonth/>
+        <script/>
+        <source_filter/>
+        <source_table>sn_ex_sp_action</source_table>
+        <sys_class_name>u_cs8266600_test</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2025-05-13 08:29:54</sys_created_on>
+        <sys_id>6df73528eba56a10a9c7f734bad0cd2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="testapp_wbuck" source="x_snc_testapp_wb_0">eafbbb8c93946a10d0f7f2fa2bba1060</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp_wbuck">eafbbb8c93946a10d0f7f2fa2bba1060</sys_scope>
+        <sys_update_name>u_cs8266600_test_6df73528eba56a10a9c7f734bad0cd2f</sys_update_name>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2025-05-13 08:29:54</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </u_cs8266600_test>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>6df73528eba56a10a9c7f734bad0cd2f</id>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2025-05-13 08:29:53</sys_created_on>
+        <sys_id>ed093568eba56a10a9c7f734bad0cdce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2025-05-13 08:29:53</sys_updated_on>
+        <table>u_cs8266600_test</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

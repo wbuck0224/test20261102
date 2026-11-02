@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_testapp_wb_0.user" name="x_snc_testapp_wb_0.user">f2fbbb8c93946a10d0f7f2fa2bba1089</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-11 01:26:36</sys_created_on>
+        <sys_id>b6fbbb8c93946a10d0f7f2fa2bba108a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f2fbbb8c93946a10d0f7f2fa2bba1089</sys_name>
+        <sys_package display_value="testapp_wbuck" source="x_snc_testapp_wb_0">eafbbb8c93946a10d0f7f2fa2bba1060</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp_wbuck">eafbbb8c93946a10d0f7f2fa2bba1060</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b6fbbb8c93946a10d0f7f2fa2bba108a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-11 01:26:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
